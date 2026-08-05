@@ -1,0 +1,8 @@
+music_content_based_filtering_user_data
+Table 1,Age,"Favorite genre (1=pop, 2=HipHop, 3, R&B, 4=Rock, 5=Grunge, 6=Country",Adventurousness,Mellowness,Preferred era (decades from 2000)
+User 1,22,1,4,4,1
+User 2,34,5,8,6,-1
+User 3,19,2,6,5,1
+User 4,41,4,7,3,-1
+User 5,28,6,3,8,2
+User 6,25,1,9,7,1
